@@ -5,7 +5,7 @@
 sreach and  save to favorites books
 
 ## Demonstration
-[Video LinK](https://stark-river-00487-819bfcf389a0.herokuapp.com)
+[Link](https://stark-river-00487-819bfcf389a0.herokuapp.com)
 
 
 
